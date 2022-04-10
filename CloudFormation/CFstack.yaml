@@ -30,7 +30,7 @@
                 "Role": "arn:aws:iam::420442937540:role/service-role/lf2_role",
                 "Environment": {
                     "Variables": {
-                        "REGION": "us-west-2"
+                        "REGION": "us-east-1"
                     }
                 }
             }
